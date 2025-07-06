@@ -1,4 +1,4 @@
-# 🧠 Pneumonia Chest X-Ray Classification (Multiclass - CNN)
+# Pneumonia Chest X-Ray Classification (Multiclass - CNN)
 
 This project is focused on building a custom **Convolutional Neural Network (CNN)** to classify chest X-ray images into three categories:
 
