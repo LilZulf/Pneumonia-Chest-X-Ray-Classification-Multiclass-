@@ -20,22 +20,6 @@ Each subset contains three folders: `NORMAL`, `BACTERIAL`, `VIRAL`.
 
 > Note: For privacy and size constraints, the dataset is not included in this repository. You may refer to the original source or upload your own dataset with the same folder structure.
 
----
-
-## Project Structure
-
-├── notebook/
-│ └── Pneumonia_Classification_CNN.ipynb
-├── models/
-│ └── cnn_model_pneumonia.h5
-├── results/
-│ ├── accuracy_loss_plot.png
-│ └── confusion_matrix.png
-├── README.md
-└── requirements.txt
-
----
-
 ## Methodology
 
 ### Preprocessing
